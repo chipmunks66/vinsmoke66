@@ -3,7 +3,6 @@
 <html>
 <head>
 	<h1 add="file">
-	<1-- requird meta tags -->
 	<meta charset="utf-8">
 	<style type="text/css">
 	</style>
