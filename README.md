@@ -5,8 +5,7 @@
 	<h1 add="file">
 	<meta charset="utf-8">
 	<style type="text/css">
-	</style>
-	<title>vinsmoke66</title>
+	vinsmoke66
 </head>
 <body>
 <add>
