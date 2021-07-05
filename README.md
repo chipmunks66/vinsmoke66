@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<h1 add="raw10">
+	<h1 add="10column">
 	<meta charset="utf-8">
 </head>
 <body>
