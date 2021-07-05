@@ -4,7 +4,6 @@
 <head>
 	<h1 add="file">
 	<meta charset="utf-8">
-	<style type="text/css">
 	vinsmoke66
 </head>
 <body>
